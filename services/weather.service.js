@@ -1,9 +1,5 @@
 import axios from 'axios';
-
-const api = {
-    base: 'https://api.weatherapi.com/v1/',
-    key: '5b26f85ea7d142eab8585737231108'
-}
+import api from './api'
 
 export const WeatherService = {
     
