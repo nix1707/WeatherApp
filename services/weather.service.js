@@ -1,5 +1,6 @@
 import axios from 'axios';
 import api from './api'
+import React from 'react';
 
 export const WeatherService = {
     
